@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="![image](https://github.com/Resham0007/Resham0007/assets/115933421/e3f45c85-bef8-4796-8d6d-bfab3c2cc8bd)
-">
+ ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resham0007&label=Profile%20views&color=0e75b6&style=flat" alt="resham0007" /> </p>
