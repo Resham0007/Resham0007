@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Resham Hansdah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="![image](https://github.com/Resham0007/Resham0007/assets/115933421/f2cf4d69-c2ee-42fe-9ba8-95723c5eee77)
+<img src="![image](https://github.com/Resham0007/Resham0007/assets/115933421/c476f896-362c-4423-8178-6eb3d0d405fe)
+
 ">
 
 
