@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Resham Hansdah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“![image](https://github.com/Resham0007/Resham0007/assets/115933421/6d64e989-a83a-4870-8d5b-5db2d947e53f)
+<img align=“right” alt=“coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjylGwWFZz4aNLIoNnN2w-zH8nG2SOqOHFqeHNkhADDmT8km9MntByVZ4eEbVw_OYpio&usqp=CAU
 
   ”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resham0007&label=Profile%20views&color=0e75b6&style=flat" alt="resham0007" /> </p>
