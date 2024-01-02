@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Resham Hansdah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 
 <img alt="Resham" src="![image](https://github.com/Resham0007/Resham0007/assets/115933421/17351b38-aff8-45a8-bf3b-5728d67e8deb)
 
