@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resham0007" alt="resham0007" /></a> </p>
 
-- 🌱 I’m currently learning **javascript,react and nodejs**
+- 🌱 I’m currently learning **react and nodejs**
 
 - 🤝 I’m looking for help with **Frontend related projects**
 
