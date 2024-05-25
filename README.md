@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Resham Hansdah</h1>
 <h3 align="center">A passionate Web developer and ML enthusiast from India</h3>
 
-<img alt="" src="![image](https://github.com/Resham0007/Resham0007/assets/115933421/17351b38-aff8-45a8-bf3b-5728d67e8deb)"
+![image](https://github.com/Resham0007/Resham0007/assets/115933421/17351b38-aff8-45a8-bf3b-5728d67e8deb)
   
-  >
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resham0007&label=Profile%20views&color=0e75b6&style=flat" alt="resham0007" /> </p>
