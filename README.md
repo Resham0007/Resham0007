@@ -14,11 +14,15 @@
 
 - 🌱 I’m currently learning **react and nodejs**
 
-- 🤝 I’m looking for help with **Frontend related projects**
+- 🤝 I’m looking for help with **ML & Web Dev related projects**
 
 - 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **b521048@iiit-bh.ac.in**
+
+- 🏏 I love playing **cricket and table tennis**
+
+- 🏏 I love **dancing and table singing**
 
 - ⚡ Fun fact **I think I am funny 🤫**
 
