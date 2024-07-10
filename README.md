@@ -22,7 +22,7 @@
 
 - 🏏 I love playing **cricket and table tennis**
 
-- 🏏 I love **dancing and table singing**
+- 💃 I love **dancing and singing**
 
 - ⚡ Fun fact **I think I am funny 🤫**
 
