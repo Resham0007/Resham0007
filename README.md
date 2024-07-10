@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resham0007" alt="resham0007" /></a> </p>
 
-- 🌱 I’m currently learning **react and nodejs**
+- 🌱 I’m currently learning **ML**
 
 - 🤝 I’m looking for help with **ML & Web Dev related projects**
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **b521048@iiit-bh.ac.in**
 
