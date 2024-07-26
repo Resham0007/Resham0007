@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Web developer and ML enthusiast from India</h3>
 
 ![image](https://github.com/Resham0007/Resham0007/assets/115933421/3a00ccc9-c21f-49b1-b1e9-c7fff1f82d48)
-![image](https://github.com/Resham0007/Resham0007/assets/115933421/bdea8a8c-b538-4ecf-bbf8-e12208e7fa2a)
 
 
 
