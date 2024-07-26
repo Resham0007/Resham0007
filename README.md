@@ -2,10 +2,7 @@
 <h3 align="center">A passionate Web developer and ML enthusiast from India</h3>
 <h4 align="center">Throughout my academic journey, I have engaged in various projects that showcase my ability to solve complex problems and create innovative solutions. You can explore my projects here.</h4>
 
-
-![image](https://github.com/user-attachments/assets/c036140c-7008-4561-923e-8536f1c3f8b8)
-
-
+![image](https://github.com/user-attachments/assets/7686dd8e-9781-426b-80d6-49f70b70161d)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resham0007&label=Profile%20views&color=0e75b6&style=flat" alt="resham0007" /> </p>
