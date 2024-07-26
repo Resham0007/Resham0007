@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Resham Hansdah</h1>
 <h3 align="center">A passionate Web developer and ML enthusiast from India</h3>
 <h4 align="center">Throughout my academic journey, I have engaged in various projects that showcase my ability to solve complex problems and create innovative solutions. You can explore my projects here.</h4>
-(![image](https://github.com/Resham0007/Resham0007/assets/115933421/3a00ccc9-c21f-49b1-b1e9-c7fff1f82d48)
 
+
+![image](https://github.com/user-attachments/assets/c036140c-7008-4561-923e-8536f1c3f8b8)
 
 
 
