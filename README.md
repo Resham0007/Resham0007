@@ -3,7 +3,6 @@
 <h4 align="center">Throughout my academic journey, I have engaged in various projects that showcase my ability to solve complex problems and create innovative solutions. You can explore my projects here.</h4>
 
 ![image](https://github.com/user-attachments/assets/7686dd8e-9781-426b-80d6-49f70b70161d)
-![image](https://github.com/user-attachments/assets/cf5b6ce1-e94d-4745-ab1e-c98d9059238b)
 
 
 
